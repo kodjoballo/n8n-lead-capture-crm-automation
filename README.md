@@ -1,4 +1,3 @@
-# n8n-lead-capture-crm-automation
 
 # 📋 Lead Capture to CRM Automation — n8n
 
@@ -69,9 +68,9 @@ Google Forms → Google Sheets Trigger → HubSpot (create contact) → Gmail (s
 - Link it to a Google Sheet via Responses tab → Sheets icon
 
 **2. Import the workflow**
-- Download `workflow.json` from this repo
+- Download `Lead Capture CRM.json` from this repo
 - In n8n, go to **Workflows** → **Import from file**
-- Select `workflow.json`
+- Select `Lead Capture CRM.json`
 
 **3. Connect your credentials**
 - **Google Sheets node** → add Google OAuth2 credential
@@ -102,7 +101,7 @@ Google Forms → Google Sheets Trigger → HubSpot (create contact) → Gmail (s
 ## 📁 Files
 
 ```
-├── workflow.json          # n8n workflow export (import directly into n8n)
+├── Lead Capture CRM.json          # n8n workflow export (import directly into n8n)
 ├── workflow-preview.png   # Screenshot of the n8n canvas
 └── README.md              # This file
 ```
