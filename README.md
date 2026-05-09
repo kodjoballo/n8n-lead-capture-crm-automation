@@ -48,7 +48,7 @@ Google Forms → Google Sheets Trigger → HubSpot (create contact) → Gmail (s
 
 ## 🎥 Demo
 
-[▶ Click to watch the demo video](https://youtube.com/your-link-here)
+[▶ Click to watch the demo video](https://youtu.be/3ZHrawOGPu0)
 
 ---
 
